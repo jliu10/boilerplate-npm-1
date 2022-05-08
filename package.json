@@ -13,5 +13,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": ["epic", "NAV", "project", "freecodecamp"]
+	"keywords": ["epic", "NAV", "project", "freecodecamp"],
+	"license": "MIT"
 }
