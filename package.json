@@ -3,7 +3,8 @@
 	"author": "Justin Liu",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"description": "An epic backend project. Listen to NAV.",
 	"main": "server.js",
